@@ -16,5 +16,6 @@ This repository contains a minimal working prototype of an ADGM-compliant "Corpo
 2. Create and activate Python venv (recommended):
 ```bash
 python -m venv venv
-source venv/bin/activate    # Windows: venv\\Scripts\\activate
+venv\\Scripts\\activate
 pip install -r requirements.txt
+
