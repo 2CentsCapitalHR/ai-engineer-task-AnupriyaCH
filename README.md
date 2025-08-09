@@ -11,11 +11,11 @@ This repository contains a minimal working prototype of an ADGM-compliant "Corpo
 
 ## Setup
 
-1. Clone repository.
 
 2. Create and activate Python venv (recommended):
 ```bash
 python -m venv venv
 venv\\Scripts\\activate
 pip install -r requirements.txt
+
 
