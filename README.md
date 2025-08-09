@@ -13,9 +13,9 @@ This repository contains a minimal working prototype of an ADGM-compliant "Corpo
 
 Here’s the proof screenshot of the project running:
 
-![Project Screenshot](images_proof/Screenshot 2025-08-09 231230.png)
-![2](images_proof/Screenshot 2025-08-09 231248.png)
-![3](images_proof/Screenshot 2025-08-09 231254.png)
+![Project Screenshot](images_proof/Screenshot2025-08-09-231230.png)
+![2](images_proof/Screenshot2025-08-09-231248.png)
+![3](images_proof/Screenshot2025-08-09-231254.png)
 
 ## Setup
 
@@ -25,6 +25,7 @@ Here’s the proof screenshot of the project running:
 python -m venv venv
 venv\\Scripts\\activate
 pip install -r requirements.txt
+
 
 
 
