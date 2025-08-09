@@ -18,10 +18,13 @@ python -m venv venv
 venv\\Scripts\\activate
 pip install -r requirements.txt
 
+## Project Run Proof
 
-Here’s the project run image proof:
+Here’s the proof screenshot of the project running:
 
-![1](images_proof/Screenshot 2025-08-09 231230.png)
+![Project Screenshot](images_proof/Screenshot%202025-08-09%20231230.png)
 ![2](images_proof/Screenshot 2025-08-09 231248.png)
 ![3](images_proof/Screenshot 2025-08-09 231254.png)
+
+
 
