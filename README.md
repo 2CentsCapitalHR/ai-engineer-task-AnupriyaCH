@@ -19,3 +19,8 @@ venv\\Scripts\\activate
 pip install -r requirements.txt
 
 
+Here’s the project run image proof:
+
+![1](images/Screenshot 2025-08-09 231230.png)
+![2](images/Screenshot 2025-08-09 231248.png)
+![3](images/Screenshot 2025-08-09 231254.png)
