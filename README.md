@@ -1,4 +1,4 @@
-# ADGM Corporate Agent — Document Reviewer (MVP)
+# ADGM Corporate Agent — Document Review
 
 ## Overview
 This repository contains a minimal working prototype of an ADGM-compliant "Corporate Agent" that:
@@ -27,6 +27,7 @@ venv\\Scripts\\activate
 pip install -r requirements.txt
 
 python app.py
+
 
 
 
