@@ -1,1 +1,20 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vgbm4cZ0)
+# ADGM Corporate Agent — Document Reviewer (MVP)
+
+## Overview
+This repository contains a minimal working prototype of an ADGM-compliant "Corporate Agent" that:
+- Accepts `.docx` files
+- Performs simple detection of document types
+- Compares uploaded docs to a checklist (Company Incorporation)
+- Runs heuristic red-flag detection
+- Optionally performs RAG + LLM review (requires reference texts in `adgm_refs/` and `OPENAI_API_KEY`)
+- Produces a reviewed `.docx` with inline bracketed comments and a JSON summary.
+
+## Setup
+
+1. Clone repository.
+
+2. Create and activate Python venv (recommended):
+```bash
+python -m venv venv
+source venv/bin/activate    # Windows: venv\\Scripts\\activate
+pip install -r requirements.txt
