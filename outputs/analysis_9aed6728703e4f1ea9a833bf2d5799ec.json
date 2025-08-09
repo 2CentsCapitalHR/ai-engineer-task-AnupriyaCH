@@ -1,0 +1,42 @@
+{
+  "process": "Unknown",
+  "documents_uploaded": 1,
+  "required_documents": null,
+  "missing_documents": [],
+  "summary": [
+    {
+      "file": "addba8f4d032482daf2fa12730a7f93f_apmg.docx",
+      "type": "Unknown Document Type",
+      "issues_found": 3
+    }
+  ],
+  "issues": [
+    {
+      "document": "addba8f4d032482daf2fa12730a7f93f_apmg.docx",
+      "doc_type": "Unknown Document Type",
+      "section": "Paragraph 3",
+      "issue": "Ambiguous language: contains 'may'",
+      "severity": "Medium",
+      "suggestion": "Consider clarifying to explicit obligation or remove discretionary terms."
+    },
+    {
+      "document": "addba8f4d032482daf2fa12730a7f93f_apmg.docx",
+      "doc_type": "Unknown Document Type",
+      "section": "Paragraph 7",
+      "issue": "Ambiguous language: contains 'may'",
+      "severity": "Medium",
+      "suggestion": "Consider clarifying to explicit obligation or remove discretionary terms."
+    },
+    {
+      "document": "addba8f4d032482daf2fa12730a7f93f_apmg.docx",
+      "doc_type": "Unknown Document Type",
+      "section": "End of document",
+      "issue": "No signatory or signature block detected",
+      "severity": "High",
+      "suggestion": "Add a clearly labelled signature block for authorized signatories with name, title and date."
+    }
+  ],
+  "reviewed_files": [
+    "outputs\\reviewed_addba8f4d032482daf2fa12730a7f93f_apmg.docx"
+  ]
+}
